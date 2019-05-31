@@ -194,7 +194,7 @@ nav a {
     flex-direction: row;
     flex-wrap: wrap;
     padding: 20px 0px;
-    border-bottom: 1px solid black 40%;
+    border-bottom: 1px solid black;
     margin-bottom: 20px;
 }
 
@@ -290,6 +290,22 @@ nav a {
     display: flex;
     flex-direction: column;
     padding: 30px 0;
+}
+
+.strategy img {
+    width: 100%;
+}
+
+.howwework img {
+    width: 100%
+}
+
+.places img {
+    width: 100%
+}
+
+.collaboration img {
+    width: 100%;
 }
 
 
