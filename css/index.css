@@ -180,5 +180,97 @@ nav a {
     margin-left: 360px;
 }
 
+.containerabout-page {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.about {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px 0px;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.Mbody {
+    display: flex;
+    width: 800px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.strategy {
+    width: 49%;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+    
+    
+}
+
+.strategy h2 {
+    padding: 15px 0;
+}
+
+.strategy button {
+    background: white;
+    margin: 15px 0;
+    
+}
+
+.howwework {
+    width: 49%;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+
+}
+
+.howwework h2 {
+    padding: 15px 0;
+}
+
+.howwework button {
+    background: white;
+    margin: 15px 0;
+}
+
+.places {
+    width: 49%;
+    border-bottom: 1px solid black;
+}
+
+.places h2 {
+    padding: 15px 0;
+}
+
+.places button {
+    background: white;
+    margin: 15px 0;
+}
+
+.collaboration {
+    width: 49%;
+    border-bottom: 1px solid black;
+}
+
+.collaboration h2 {
+    padding: 15px 0;
+
+}
+
+.collaboration button{
+    background: white;
+    margin: 15px 0;
+}
+
+
+
+
+
 
 
